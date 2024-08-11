@@ -5,9 +5,7 @@ The project is an e-commerce platform for gadgets with distinct functionalities 
 
 Note: The payment page is created only for demo purpose and its not fully integrated with any payment gateway. So for now any credit card details will be accepted and the demo orders will be placed.
 
-# Highlights 
-
-#User Functionalities:
+##User Functionalities:
 
 Registration & Login: Users can register and log in to access the website's features.
 Product Browsing: Users can view all available products, filter, and search for items based on categories.
@@ -16,24 +14,24 @@ Checkout Process: After updating the cart, users can proceed to checkout by ente
 Order Management: Upon successful payment, users can view their order details, including shipping status, in the orders section.
 Email Notifications: Users receive email notifications for successful registration, order confirmation, and shipping updates. They are also notified when out-of-stock items become available.
 
-Admin Functionalities:
+##Admin Functionalities:
 Product Management: Admins can add, update, or remove products from the store and manage inventory levels.
 Order Management: Admins can view all orders placed by users and update the shipping status to "shipped" or "delivered."
 Inventory Alerts: Admins can notify users via email when out-of-stock items are restocked.
 
-Technologies used
+##Technologies used
 
-Front-End Development:
+#Front-End Development:
 - HTML
 - CSS
 - Javascript
 - BootStrap
 - 
-Back-End Development:
+#Back-End Development:
 - Java 
 - JDBC
 - Servlet
 - JSP
 
-Database:
+#Database:
 - MySql
