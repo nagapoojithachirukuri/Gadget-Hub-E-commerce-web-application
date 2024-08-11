@@ -28,15 +28,15 @@ Inventory Alerts: Admins can notify users via email when out-of-stock items are 
 
 # Technologies used
 
-# Front-End Development:
+## Front-End Development:
 - HTML
 - CSS
 - Javascript
 - BootStrap
-# Back-End Development:
+## Back-End Development:
 - Java 
 - JDBC
 - Servlet
 - JSP
-# Database:
+## Database:
 - MySql
